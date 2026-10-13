@@ -4,7 +4,9 @@ A self-contained Grade 5 dictionary and thesaurus with 336 word entries and 42 s
 
 ## Features
 
-- Search familiar words, related vocabulary, or meanings.
+- Search familiar English words, related vocabulary, or meanings in English, Korean, Swedish, or Simplified Chinese.
+- Choose language help at the top. Simple translated meanings and directions appear beneath English text, while vocabulary words stay in English.
+- The language choice stays selected in the current browser. Example sentences remain in English as reading models.
 - Browse feelings and character traits, or use the alphabetical index.
 - Compare emotional intensity where appropriate and explore differences in meaning.
 - Read simple definitions, example situations, and prompts for finding story evidence.
